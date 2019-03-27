@@ -1,0 +1,17 @@
+{
+  "name": "file-creation-script",
+  "version": "1.0.0",
+  "description": "This CLI asks some questions and creates a file based on the answers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hugo Dias",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.2.2",
+    "shelljs": "^0.8.3"
+  }
+}
